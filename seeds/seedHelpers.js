@@ -1,0 +1,41 @@
+module.exports.descriptors = [
+    'Forest',
+    'Old Cargo',
+    'Mountain',
+    'Rock',
+    'Cascade',
+    'Relief',
+    'Ocean',
+    'Desert',
+    'Bush',
+    'Road',
+    'Room',
+    'Ship',
+    'Hospital',
+    'Station',
+    'Palace',
+    'A Town Hall',
+    'Camp',
+    'Fridge'
+]
+
+module.exports.places = [
+    'Village',
+    'Jet',
+    'Airport',
+    'Seaport',
+    'Carpark',
+    'Park',
+    'Bank',
+    'Eatery',
+    'Hotel',
+    'Hostel',
+    'Farm',
+    'Pool',
+    'Mall',
+    'Church',
+    'Shrine',
+    'Mosque',
+    'Office',
+    'Field'
+]
